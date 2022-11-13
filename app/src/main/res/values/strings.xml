@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="temp">%.1f \u2103</string>
+    <string name="temp_range">%.1f \u2103 - %.1f \u2103</string>
+</resources>
